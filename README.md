@@ -5,7 +5,8 @@ If you want to do a project with me, feel free to contact me on one of my profil
 
 - 🔭  I’m currently working on microservices, interfaces & api's
 - 🌱  I’m currently learning Kubernetes
-- 📫  How to reach me: info@jj-ideenschmiede.de
+- 📫  How to reach me: mail@jonaskwiedor.de
 - 🦟  Linkedin: Jonas Kwiedor
+- 🐳  Docker Hub: @jojojojonas
 - 🐦  Twitter: @halloojonas
 - ⚡   Fun fact: As a child, I always wanted to be an inventor
