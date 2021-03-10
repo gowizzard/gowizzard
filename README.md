@@ -4,7 +4,7 @@ My name is Jonas and I like to build software. Preferably backends or microservi
 If you want to do a project with me, feel free to contact me on one of my profiles.
 
 - 🔭  I’m currently working on microservices, interfaces & api's
-- 🌱  I’m currently learning Kubernetes, MongoDB & Microservices
+- 🌱  I’m currently learning XML, Shell & more
 - 📫  How to reach me: jonas.kwiedor@jj-ideenschmiede.de
 - 🦟  Linkedin: [Jonas Kwiedor](https://www.linkedin.com/in/jonas-kwiedor/)
 - 🐳  Docker Hub: [@jojojojonas](https://hub.docker.com/u/jojojojonas)
