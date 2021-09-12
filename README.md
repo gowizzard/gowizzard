@@ -8,5 +8,5 @@ If you want to do a project with me, feel free to contact me on one of my profil
 - 📫  How to reach me: jonas.kwiedor@jj-ideenschmiede.de
 - 🦟  Linkedin: [Jonas Kwiedor](https://www.linkedin.com/in/jonas-kwiedor/)
 - 🐳  Docker Hub: [@jojojojonas](https://hub.docker.com/u/jojojojonas)
-- 🐦  Twitter: [@halloojonas](https://twitter.com/halloojonas)
+- 🐦  Twitter: [@gowizzard](https://twitter.com/gowizzard)
 - ⚡   Fun fact: As a child, I always wanted to be an inventor
