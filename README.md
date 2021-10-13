@@ -10,3 +10,5 @@ If you want to do a project with me, feel free to contact me on one of my profil
 - 🐳  Docker Hub: [@jojojojonas](https://hub.docker.com/u/jojojojonas)
 - 🐦  Twitter: [@gowizzard](https://twitter.com/gowizzard)
 - ⚡   Fun fact: As a child, I always wanted to be an inventor
+
+![gowizzard](logo.svg)
