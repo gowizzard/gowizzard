@@ -9,8 +9,8 @@ If you want to do a project with me, feel free to contact me on one of my profil
 
 - 🔭  I’m currently working on microservices, interfaces & api's
 - 🌱  I’m currently learning XML, Shell & more
-- 📫  How to reach me: [jonas.kwiedor@jj-ideenschmiede.de](mailto:jonas.kwiedor@jj-ideenschmiede.de)
+- 📫  How to reach me: [jonas.kwiedor@jj-ideenschmiede.de](mailto:mail@gowizzard.de)
 - 🦟  Linkedin: [Jonas Kwiedor](https://www.linkedin.com/in/jonas-kwiedor/)
-- 🐳  Docker Hub: [@jojojojonas](https://hub.docker.com/u/jojojojonas)
+- 🐳  Docker Hub: [@jojojojonas](https://hub.docker.com/u/gowizzard)
 - 🐦  Twitter: [@gowizzard](https://twitter.com/gowizzard)
 - ⚡   Fun fact: As a child, I always wanted to be an inventor
