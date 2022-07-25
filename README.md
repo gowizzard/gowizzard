@@ -5,7 +5,7 @@ My name is Jonas and I like to build software. Preferably backends or microservi
 If you want to do a project with me, feel free to contact me on one of my profiles.
 
 - 🔓 Have a heart for [Open Source](https://opensource.org/)
-- 🔭  I’m currently working on microservices, interfaces, api's & open source projects like [echGo](https://github.com/echgo) or [notificago](https://github.com/notificago)
+- 🔭  I’m currently working on microservices, interfaces, api's & open source projects like [echGo](https://github.com/echgo)
 - 🌱  I’m currently learning Vim & more
 - 📫  How to reach me: [mail@gowizzard.de](mailto:mail@gowizzard.de)
   - Feel free to use my [PGP/GPG key](https://keys.openpgp.org/search?q=mail%40gowizzard.de) as well.
