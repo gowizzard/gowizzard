@@ -4,12 +4,12 @@ My name is Jonas and I like to build software. Preferably backends or microservi
 
 If you want to do a project with me, feel free to contact me on one of my profiles.
 
-- 🔓 Have a heart for [Open Source](https://opensource.org/)
-- 🔭  I’m currently working on microservices, interfaces, api's & open source projects like [echGo](https://github.com/echgo)
-- 🌱  I’m currently learning Vim & more
-- 📫  How to reach me: [mail@gowizzard.de](mailto:mail@gowizzard.de)
+- 🔓 Have a heart for [Open Source](https://opensource.org/).
+- 🔭  I’m currently working on microservices, interfaces, api's & open source projects like [echGo](https://github.com/echgo), [CompVer](https://github.com/gowizzard/compver), etc.
+- 🌱  I’m currently learning Vim & more.
+- 📫  How to reach me: [mail@gowizzard.de](mailto:mail@gowizzard.de).
   - Feel free to use my [PGP/GPG key](https://keys.openpgp.org/search?q=mail%40gowizzard.de) as well.
-- 🦟  Linkedin: [Jonas Kwiedor](https://www.linkedin.com/in/jonas-kwiedor/)
-- 🐳  Docker Hub: [@gowizzard](https://hub.docker.com/u/gowizzard)
-- 🐦  Twitter: [@gowizzard](https://twitter.com/gowizzard)
-- ⚡   Fun fact: As a child, I always wanted to be an inventor
+- 🦟  Linkedin: [Jonas Kwiedor](https://www.linkedin.com/in/jonas-kwiedor/).
+- 🐳  Docker Hub: [@gowizzard](https://hub.docker.com/u/gowizzard).
+- 🐦  Twitter: [@gowizzard](https://twitter.com/gowizzard).
+- ⚡   Fun fact: As a child, I always wanted to be an inventor.
