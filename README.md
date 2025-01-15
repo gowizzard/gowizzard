@@ -1,15 +1,18 @@
-### Hello there 🌐
+# Hi, I’m Jonas! 🚀
 
-My name is Jonas and I like to build software. Preferably backends or microservices. That's what I'm currently doing as my main job. For most projects I use GO, because I like the language and the performance is second to none.
+A backend and microservices enthusiast.
 
-If you want to do a project with me, feel free to contact me on one of my profiles.
+I primarily use Go for its simplicity and performance, and I’m currently learning Zig to explore new possibilities in systems programming.
 
-- 🔓 Have a heart for [Open Source](https://opensource.org/).
-- 🔭  I’m currently working on shopify & shopware6 apps, interfaces, api's & open source projects like [echGo](https://github.com/echgo), [CompVer](https://github.com/gowizzard/compver), [dotenv](https://github.com/gowizzard/dotenv), etc.
-- 🌱  I’m currently learning Kubernetes & Python for scripting.
-- 📫  How to reach me: [mail@gowizzard.de](mailto:mail@gowizzard.de).
-  - Feel free to use my [PGP/GPG key](https://keys.openpgp.org/search?q=mail%40gowizzard.de) as well.
-- 🦟  Linkedin: [Jonas Kwiedor](https://www.linkedin.com/in/jonas-kwiedor/).
-- 🐳  Docker Hub: [@gowizzard](https://hub.docker.com/u/gowizzard).
-- 🐦  Twitter: [@gowizzard](https://twitter.com/gowizzard).
-- ⚡   Fun fact: As a child, I always wanted to be an inventor.
+## About my work
+
+As the co-founder of [J&J Ideenschmiede GmbH](https://jj-ideenschmiede.de), I specialize in developing tailored software solutions to help businesses automate processes and streamline operations. We focus on creating Shopify & Shopware 6 apps, API integrations, and custom tools for various industries. Collaboration and innovation are at the heart of everything we do.
+
+## 📫 How to reach me
+
+**J&J Ideenschmiede GmbH**  
+- ✉️ [jonas.kwiedor@jj-ideenschmiede.de](mailto:jonas.kwiedor@jj-ideenschmiede.de) ([PGP/GPG key](https://keys.openpgp.org/search?q=jonas.kwiedor%40jj-ideenschmiede.de))  
+- 🌐 [www.jj-ideenschmiede.de](https://jj-ideenschmiede.de)
+
+**Personal Contact**  
+- ✉️ [mail@jonaskwiedor.de](mailto:mail@jonaskwiedor.de) ([PGP/GPG key](https://keys.openpgp.org/search?q=mail%40gowizzard.de))
